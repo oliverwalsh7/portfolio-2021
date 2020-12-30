@@ -36,6 +36,10 @@ export const query = graphql`
             }
           }
         }
+        stack {
+          id
+          title
+        }
       }
     }
   }
