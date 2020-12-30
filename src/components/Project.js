@@ -18,7 +18,7 @@ const Project = ({description, title, stack, github, url, image, index}) => {
           </div>
         <div className="project-links">
           <a href={github}>
-            <FaGithubSquare className="project-icon" />
+              {github == 'n/a' ? <div/> : <FaGithubSquare className="project-icon" />}
           </a>
           <a href={url}>
             <FaShareSquare className="project-icon" />
