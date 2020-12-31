@@ -6,9 +6,8 @@ export default [
     icon: <FaCode className="service-icon" />,
     title: "web development",
     text: `My favorite method to build websites is with React & TypeScript. I also love using extensions of React like next.js & Gatsby.\n
-          Most of the web development work I've done has been with React, but I also have an affinity for using Vue, typically with smaller projects.\n
-          I've worked on the micro to macro scale, having built an entire architecture from scratch or optimize minute aspects of preexisting systems.\n
-          I'm also experienced in developing network protocols (HTTP, TCP/IP, UDP, SSL) through indepedent research and my work as a systems administator.`,
+          I also have an affinity for using Vue, typically with smaller projects.\n
+          I've worked on the micro to macro scale, having built an entire architecture from scratch or optimize minute aspects of preexisting systems.\n`,
   },
   {
     id: 2,
@@ -16,10 +15,8 @@ export default [
     title: "backend & databases",
     text: `I've had exposure to a wide variety of backends, differing in all shapes and sizes. \n
            Having learned the wide breadth of possible data structures over the years, recognizing the inner
-           workings of most backend structures has become progressively easier. 
-           My first exposure came from none other than the former Principle Database Researcher at Bell Labs, Prof. Hank Korth.
-           SQL became my second native dialect and from there on our my fascination with large-scale backends flourished.
-           Experienced with Mongo, Firebase, PostgreSQL, JS backends, cloud services, etc.`,
+           workings of most backend structures has become progressively easier for me. 
+           Experienced with SQL + PostgreSQL, Mongo, Firebase, JS backends, cloud services, etc.`,
   },
   {
     id: 3,
@@ -42,7 +39,7 @@ export default [
     icon: <FaLinux className="service-icon" />,
     title: "Linux",
     text: `As an advocate of open-source, messing around with Linux distros has been a favorite past time of mine for the better part of my young adult life.
-           I'm now diving into the depths of Arch Linux but have intiment experience with Kali and Debian through my work as a systems administrator`,
+           I'm now diving into the depths of Arch Linux but have intiment experience with Kali and Debian through my work as a systems administrator.`,
   },
   {
     id: 6,
